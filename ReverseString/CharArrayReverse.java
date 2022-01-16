@@ -14,6 +14,6 @@ public class CharArrayReverse {
             count  = count -1;
         }
         
-        System.out.print(Arrays.toString(textArray));
+        System.out.println(Arrays.toString(textArray));
     }
 }
