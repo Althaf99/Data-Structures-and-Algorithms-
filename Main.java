@@ -12,15 +12,12 @@ public class Main {
         CharArrayReverse obj1 = new CharArrayReverse("Althaf");
         System.out.println("-----------------------------------");
         StringBuilderRev obj2 = new StringBuilderRev("Althaf");
-<<<<<<< HEAD
         System.out.println("Hello World 2");
-=======
-<<<<<<< HEAD
+
         System.out.println("Hello World 1");
-=======
+
         System.out.println("Hello World on VSCode");
->>>>>>> ab60e93 (Added Hello World)
->>>>>>> baa4b75 (Conflicts Resolved)
+
         ThirdVariable obj3  = new ThirdVariable(10, 20);
         CountWords objCountWords = new CountWords("AlthafffAAAAllll");
         CountWords2 objCountWords2 = new CountWords2("Althaf Azad is Name But People call me as Althaf But i prefer Mohammed Althaf Now i have made some changes by creating a new branch call Althaf underscore Azad");
