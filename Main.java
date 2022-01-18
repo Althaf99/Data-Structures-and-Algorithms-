@@ -12,11 +12,6 @@ public class Main {
         CharArrayReverse obj1 = new CharArrayReverse("Althaf");
         System.out.println("-----------------------------------");
         StringBuilderRev obj2 = new StringBuilderRev("Althaf");
-        System.out.println("Hello World 2");
-
-        System.out.println("Hello World 1");
-
-        System.out.println("Hello World on VSCode");
 
         ThirdVariable obj3  = new ThirdVariable(10, 20);
         CountWords objCountWords = new CountWords("AlthafffAAAAllll");
